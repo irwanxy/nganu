@@ -1,2 +1,0 @@
-# nganu
-Its nganu
