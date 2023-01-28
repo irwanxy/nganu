@@ -16,7 +16,7 @@ int main ()
       "=================================================\n"
       "==================== TOSERBA ====================\n"
       "=================================================\n");
-      printf("Masukkan Jumlah Barang\t\t: ");
+      printf("Masukkan Jumlah Jenis Barang\t\t: ");
       scanf("%i",&barang); 
 	  printf("Masukkan jumlah diskon\t\t: ");
 	  scanf("%f", &diskon); 
